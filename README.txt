@@ -7,20 +7,21 @@ Retorna los puntos medios del tamaño para una lista de promedios de LOCS por It
 
 
 HTTPS clone URL GITHUB:
-
+https://github.com/angelaEST/psp1_1.git
 
 Command clone psp1 de Angela :)
-
+git clone https://github.com/angelaEST/psp1_1.git
 
 Heroku
 
-
+git@heroku.com:psp11aest.git
 
 Para ejecutar con resultados por consola:
-
+java -cp target/psp1_1-1.0-SNAPSHOT.jar edu.uniandes.ecos.controlador.App
 
 Ejecución Heroku
 
+java -cp target/classes:target/dependency/* edu.uniandes.ecos.controlador.SizeController
 
 
 
