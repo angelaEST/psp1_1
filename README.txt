@@ -24,7 +24,10 @@ Ejecución Heroku
 java -cp target/classes:target/dependency/* edu.uniandes.ecos.controlador.SizeController
 
 
+El archivo valores.txt contiene la lista de promedios de lineas de código por método con las 
+que se ajustarán las medidas solicitadas.
 
+Ruta del arhivo: psp1_1\src\main\resources
 
 
 
